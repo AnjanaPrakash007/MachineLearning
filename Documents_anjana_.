@@ -1,0 +1,151 @@
+Jupyter Notebook
+<http://localhost:8888/tree?token=1b52545a98f5d8d05fe7641b240edeac2dd1b633771608b9>
+Quit Logout
+
+  * Files <#notebooks>
+  * Running <#running>
+  * Clusters <#clusters>
+
+Select items to perform actions on them.
+Duplicate
+Duplicate selected
+Rename
+Rename selected
+Move
+Move selected
+Download
+Download selected
+Shutdown
+Shutdown selected notebook(s)
+View
+View selected
+Edit
+Edit selected
+//
+Delete selected
+Upload
+New Toggle Dropdown
+
+  * Notebook:
+  * Python 3 (ipykernel) <#>
+  *
+  * Other:
+  * Text File <#>
+  * Folder <#>
+  * Terminal <#>
+
+//
+
+0
+
+checkbox Toggle Dropdown
+
+  * // Folders <#>
+  * // All Notebooks <#>
+  * // Running <#>
+  * // Files <#>
+
+  * // <http://localhost:8888/tree>
+  * Documents <http://localhost:8888/tree/Documents>
+  * anjana <http://localhost:8888/tree/Documents/anjana>
+
+Name //
+Last Modified //
+File size //
+//.. <http://localhost:8888/tree/Documents>
+Running
+seconds ago 
+//firstpgm.ipynb
+<http://localhost:8888/notebooks/Documents/anjana/firstpgm.ipynb>
+Running
+6 days ago28.3 kB
+//LinearRegression.ipynb
+<http://localhost:8888/notebooks/Documents/anjana/LinearRegression.ipynb>
+Running
+a minute ago14.7 kB
+//MLlab1.ipynb
+<http://localhost:8888/notebooks/Documents/anjana/MLlab1.ipynb>
+Running
+2 days ago156 kB
+//MLlab2-ordinal.ipynb
+<http://localhost:8888/notebooks/Documents/anjana/MLlab2-ordinal.ipynb>
+Running
+a day ago18 kB
+//MLlab2nominal.ipynb
+<http://localhost:8888/notebooks/Documents/anjana/MLlab2nominal.ipynb>
+Running
+2 days ago12.7 kB
+//practical1.ipynb
+<http://localhost:8888/notebooks/Documents/anjana/practical1.ipynb>
+Running
+2 days ago8.94 kB
+//Untitled.ipynb
+<http://localhost:8888/notebooks/Documents/anjana/Untitled.ipynb>
+Running
+8 days ago72 B
+//Untitled1.ipynb
+<http://localhost:8888/notebooks/Documents/anjana/Untitled1.ipynb>
+Running
+8 days ago72 B
+//Untitled2.ipynb
+<http://localhost:8888/notebooks/Documents/anjana/Untitled2.ipynb>
+Running
+6 days ago72 B
+//bank-data.csv <http://localhost:8888/edit/Documents/anjana/bank-data.csv>
+Running
+in 3 hours18 kB
+//cluster_mpg.csv
+<http://localhost:8888/edit/Documents/anjana/cluster_mpg.csv>
+Running
+2 days ago21.3 kB
+//cust.py <http://localhost:8888/edit/Documents/anjana/cust.py>
+Running
+8 days ago72 B
+//customer.csv <http://localhost:8888/edit/Documents/anjana/customer.csv>
+Running
+8 days ago141 B
+//dataset.py <http://localhost:8888/edit/Documents/anjana/dataset.py>
+Running
+8 days ago625 B
+//df.csv <http://localhost:8888/edit/Documents/anjana/df.csv>
+Running
+8 days ago228 B
+//Iris_data.csv <http://localhost:8888/edit/Documents/anjana/Iris_data.csv>
+Running
+in 3 hours2.23 kB
+//Iris_test.csv <http://localhost:8888/edit/Documents/anjana/Iris_test.csv>
+Running
+in 3 hours1.09 kB
+//Mult_Reg_Yield.csv
+<http://localhost:8888/edit/Documents/anjana/Mult_Reg_Yield.csv>
+Running
+16 minutes ago227 B
+//pokemon.csv <http://localhost:8888/edit/Documents/anjana/pokemon.csv>
+Running
+a day ago44 kB
+//practical1.py <http://localhost:8888/edit/Documents/anjana/practical1.py>
+Running
+2 days ago8.88 kB
+//purchase.py <http://localhost:8888/edit/Documents/anjana/purchase.py>
+Running
+6 days ago3.34 kB
+//untitled <http://localhost:8888/edit/Documents/anjana/untitled>
+Running
+8 days ago0 B
+//vgsales.csv <http://localhost:8888/edit/Documents/anjana/vgsales.csv>
+Running
+2 days ago1.36 MB
+Currently running Jupyter processes
+//
+Terminals // <#>
+There are no terminals running.
+Notebooks // <#>
+There are no notebooks running.
+//Documents/anjana/LinearRegression.ipynb
+<http://localhost:8888/notebooks/Documents/anjana/LinearRegression.ipynb>
+Python 3 (ipykernel)
+Shutdown
+
+seconds ago 
+Clusters tab is now provided by IPython parallel. See 'IPython parallel
+<https://github.com/ipython/ipyparallel>' for installation details.
